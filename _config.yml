@@ -1,0 +1,13 @@
+#sets the theme of the webpage
+theme: jekyll-theme-minimal
+
+#image displayed in the sidebar
+logo: images/tianli-xia.png
+
+# # #name of website and description
+title: Tianli Xia
+# description: Economics PhD Student @ Georgetown
+email: txia46@wisc.edu
+
+#custom to ensure links to resources show up on page
+include_links: true
