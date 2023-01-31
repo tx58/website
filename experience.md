@@ -42,3 +42,4 @@
 - Programming Languages: Python, SQL
 - Statistical Software: Stata, MATLAB
 
+<img src="/images/mendota.jpg" alt="mendota" width="300"/>
