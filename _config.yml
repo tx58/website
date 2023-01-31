@@ -2,12 +2,14 @@
 theme: jekyll-theme-minimal
 
 #image displayed in the sidebar
-logo: images/tianli-xia.png
-
+logo: /images/tianli-xia.png 
+logo2: /images/mendota.jpg
+ 
 # # #name of website and description
-title: Tianli Xia
-# description: Economics PhD Student @ Georgetown
+title: Tianli Xia (夏天立)
+# address: 6443, 1180 Observatory Dr, Madison NY 53726
 email: txia46@wisc.edu
 
 #custom to ensure links to resources show up on page
 include_links: true
+is_project_page: false
