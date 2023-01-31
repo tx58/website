@@ -23,7 +23,7 @@
 - ECON6110: Game Theory (Ph.D. Level) (Cornell, Spring 2020)
 - ECON4610: Industrial Organization I (Cornell, Spring 2021)
 - ECON4906: Industrial Organization and Competitive Strategy (Cornell, Spring 2019)
-
+- CICER Winter Research Program (Cornell, Winter 2020)
 * * *
 
 ## Fellowship and Awards
